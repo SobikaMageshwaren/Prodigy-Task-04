@@ -67,8 +67,10 @@ Word Cloud for Negative Sentiment:
 Customization 🎨
 You can customize the script to suit your needs:
 
-Dataset: Replace IMDB Dataset.csv with your own dataset. Ensure it has the same structure (review and sentiment columns).
+Dataset: Replace IMDB Dataset.csv with your own dataset. Ensure it has the same structure (review and sentiment columns,Download the IBDM Dataset from kaggle)
+
 Model: Experiment with other machine learning models such as SVM, Random Forest, etc.
+
 Visualization: Tailor the visualizations (e.g., color palettes, word cloud properties) to your preferences.
 
 Contributing 🤝
